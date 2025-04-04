@@ -1,5 +1,0 @@
-nombre = input("Ingrese su nombre: ")
-apellido = input("Ingrese su apellido: ")
-edad = input("Ingrese su edad: ")
-residencia = input("Ingrese su lugar de residencia: ")
-print(f"Usted es {nombre} {apellido}, tiene {edad} años, y vive en {residencia}.")
