@@ -1,5 +1,6 @@
 # Importamos las funciones mode, median y mean de la libreria statistics
 from statistics import mode, median, mean
+
 # Importamos la libreria random
 import random
 

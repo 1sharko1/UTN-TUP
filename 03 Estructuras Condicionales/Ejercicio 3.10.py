@@ -12,7 +12,7 @@ elif mes < 1 or mes > 12:
 elif dia < 1 or dia > 31:
     print("Día no válido. Debe ser un número entre 1 y 31 según el mes.")
     
-# Asignamos la estacion a partir del dia y fecha en el que se encuentra, partiendo de que nos ubicamos en el hemisferio norte    
+# Asignamos la estacion a partir del dia y fecha en el que se encuentra, partiendo de que nos ubicamos en el hemisferio norte  .  
 if hemisferio == "N":
     if mes in [1, 2]:
         estacion = "Invierno"
@@ -42,7 +42,7 @@ if hemisferio == "N":
             estacion = "Verano"
         else:
             estacion = "Otoño"
-# Asignamos la estacion a partir del dia y fecha en el que se encuentra, partiendo de que nos ubicamos en el hemisferio sur                
+# Asignamos la estacion a partir del dia y fecha en el que se encuentra, partiendo de que nos ubicamos en el hemisferio sur.               
 if hemisferio == "S":
     if mes in [1, 2]:
         estacion = "Verano"

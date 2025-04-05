@@ -1,5 +1,7 @@
+# Pedimos al usuario ingresare un numero.
 num = int(input("Ingrese un numero entero: "))
 
+# Realizamos la tabla de multiplicacion hasta el 9 del numero ingresado.
 numx1 = num * 1
 numx2 = num * 2
 numx3 = num * 3
@@ -10,6 +12,7 @@ numx7 = num * 7
 numx8 = num * 8
 numx9 = num * 9
 
+# Mostramos en pantalla la tabla de multiplicacion hasta el 9 del numero ingresado.
 print(f"{num} x 1 = {numx1}")
 print(f"{num} x 2 = {numx2}")
 print(f"{num} x 3 = {numx3}")

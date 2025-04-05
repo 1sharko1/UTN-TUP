@@ -1,2 +1,2 @@
-#Se imprime hola mundo
+# Se imprime hola mundo.
 print("Hola mundo!")

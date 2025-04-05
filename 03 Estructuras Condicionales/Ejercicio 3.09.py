@@ -1,5 +1,6 @@
 # Pedimos al usuario que ingrese la magnitud del terremoto
 magnitud = float(input("Ingrese la magnitud del terremoto: "))
+
 # Comparamos el valor para asignarle una categoria
 if magnitud < 3:
     print("Muy leve")
