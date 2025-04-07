@@ -6,4 +6,4 @@
 - **Nombre:** Escobar, Joaquin
 - **Comisión:** M2025-7 
 ## 📂 Descripción de Carpeta
-Esta carpeta almacena el segundo trabajo prácticos realizado durante la cursada de **Programación 1**.  
+Esta carpeta almacena el segundo trabajo práctico realizado durante la cursada de **Programación 1**.  
