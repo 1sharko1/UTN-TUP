@@ -4,7 +4,7 @@ estacion = ""
 dia = int(input("Ingrese en formato numero el dia en el que se encuentra: "))
 mes = int(input("Ingrese en formato numero el mes en el que se encuentra: "))
 
-# Validamos si el valor ingresado es correcto
+# Validamos si el valor ingresado es correcto.
 if hemisferio not in ["N", "S"]:
     print("Hemisferio no válido. Debe ser 'N' o 'S'.")
 elif mes < 1 or mes > 12:
